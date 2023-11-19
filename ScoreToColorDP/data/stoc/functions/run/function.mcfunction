@@ -1,0 +1,1 @@
+$function $(command0) with storage stoc

@@ -1,0 +1,1 @@
+$$(command0)$(color)$(command1)

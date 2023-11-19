@@ -1,0 +1,1 @@
+$data modify storage stoc tmp set string storage stoc hexvalue[$(tmp)]
