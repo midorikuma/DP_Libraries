@@ -6,7 +6,7 @@ scoreboard objectives add TextColorB dummy
 scoreboard objectives add TextColorH dummy
 scoreboard objectives add TextColorS dummy
 scoreboard objectives add TextColorV dummy
-scoreboard objectives add TextColorDigit dummy
+scoreboard objectives add TextColorDecimal dummy
 
 ## 定数を設定
 scoreboard players set ###16 TextColor 16
