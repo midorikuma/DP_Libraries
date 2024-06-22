@@ -1,9 +1,9 @@
-## TextColor:Decimal -> R,G,B
+## TextColor:Digi -> R,G,B
 scoreboard players operation ##Decimal1 TextColor = @s TextColorDecimal
 scoreboard players operation ##Decimal1 TextColor /= ###65536 TextColor
 
 scoreboard players operation ##Decimal2 TextColor = @s TextColorDecimal
-scoreboard players operation ##Decimal2 TextColor %= ###65536 TextColor
+scoreboard players operation ##Decimal2 TextColor -= ##Digi1 TextColor
 scoreboard players operation ##Decimal2 TextColor /= ###256 TextColor
 
 scoreboard players operation ##Decimal3 TextColor = @s TextColorDecimal
